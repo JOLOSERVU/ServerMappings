@@ -1,0 +1,33 @@
+{
+    "id": "joloservu",
+    "name": "JOLOSERVU",
+    "website": "https://solo.to/joloservu",
+    "store": "https://joloservu.craftingstore.net/",
+    "addresses": [
+        "fi-f1.axsoter.com:20023"
+    ],
+    "primaryAddress": "fi-f1.axsoter.com:20023",
+    "primaryColor": "#26EF26",
+    "secondaryColor": "#0F0FC1",
+    "minecraftVersions": [
+        "1.20.*"
+    ],
+    "primaryMinecraftVersion": "1.20.4",
+    "primaryRegion": "EU",
+    "regions": [
+        "EU"
+    ],
+    "gameTypes": [
+        "Survival",
+        "Creative",
+        "Minigames",
+        "Parkour",
+        "PvP"
+    ],
+    "socials": {
+        "discord": "https://discord.gg/EhMFPVxFzs"
+        "youtube": "https://www.youtube.com/@JOLOSERVU"
+        "instagram": "https://www.instagram.com/joloservu/"
+        "twitch": "https://www.twitch.tv/joloservu"
+    }
+}
